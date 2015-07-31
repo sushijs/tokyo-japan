@@ -1,6 +1,6 @@
 #SushiJS Tokyo
 
-Next meetup:
+Next meetup: [August 26, 2015](https://github.com/sushijs/tokyo-japan/issues/2)
 
 Discussions of future meetups can be found in the [open issues](https://github.com/sushijs/tokyo-japan/issues?page=1&state=open), and previous, the [closed](https://github.com/sushijs/tokyo-japan/issues?page=1&state=closed).
 
